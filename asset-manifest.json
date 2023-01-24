@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trivia-marathon/static/css/main.b154cfd9.css",
+    "main.js": "/trivia-marathon/static/js/main.ccbd256a.js",
+    "static/media/background-trivia.png": "/trivia-marathon/static/media/background-trivia.17c00a5ac5c7bc3b9d0c.png",
+    "static/media/logo-trivia.png": "/trivia-marathon/static/media/logo-trivia.cc8e67e868a74395d056.png",
+    "index.html": "/trivia-marathon/index.html",
+    "main.b154cfd9.css.map": "/trivia-marathon/static/css/main.b154cfd9.css.map",
+    "main.ccbd256a.js.map": "/trivia-marathon/static/js/main.ccbd256a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b154cfd9.css",
+    "static/js/main.ccbd256a.js"
+  ]
+}
