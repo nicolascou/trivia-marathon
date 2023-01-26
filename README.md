@@ -1,2 +1,2 @@
 # Trivia Marathon
-This is a demo version
+Trivia app built in React
