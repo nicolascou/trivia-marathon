@@ -26,13 +26,14 @@ const TableSection: React.FC = () => {
             <p className='font-bold'>Players</p>
             <p className='font-bold'>Hits</p>
           </div>
-          { winners &&
+          { winners ?
             winners.map((player: PlayerProps) => (
               <div key={player.name} className='table-cell'>
                 <p>{player.name}</p>
                 <p>{player.points}</p>
               </div>
             ))
+            : <p style={{ 'textAlign': 'center', 'marginTop': '1rem', 'fontWeight': '500' }}>Waiting for render.com</p>
           }
         </div>
       </div>
